@@ -25,10 +25,10 @@ html, body {
 
 .centered {
    color: rgb(1, 1, 28);
-   font-size: 30px;
+   font-size: 40px;
     position: absolute;
     font-weight: bold;
-    top: 7%;
+    top: 8%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
